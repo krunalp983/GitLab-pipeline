@@ -1,6 +1,6 @@
-# GitLabCITutorial
+# GitLabpipeline
 
-#Please update the variables in the pipeline and deployment scripts as per your needs
+#Basic CICD setup for GitLab for Node.js app
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Runner user script
